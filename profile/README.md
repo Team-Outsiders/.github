@@ -7,7 +7,7 @@
 
 ## 🌍 About Us
 
-**The Outsiders** is a collaborative GitHub organization formed by a group of passionate developers and innovators with a shared vision: to build meaningful open‑source software that solves real‑world problems.
+**The Outsiders** is a collaborative GitHub organization formed by a group of computer nerds with a shared vision: to build meaningful open‑source software that solves real‑world problems.
 
 <!--We believe in:
 
