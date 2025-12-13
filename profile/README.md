@@ -1,11 +1,10 @@
 <img width="100%" src="https://github.com/The-Out-Siders/.github/blob/main/assets/the-outsider-banner.png">
 
-**Short Description**
-*The Outsiders is an open‑source driven GitHub organization focused on building innovative, creative, and problem‑solving projects through collaboration and community contribution.*
-
-
 
 ## 🌍 About Us
+
+**Short Description**
+*The Outsiders is an open‑source driven GitHub organization focused on building innovative, creative, and problem‑solving projects through collaboration and community contribution.*
 
 **The Outsiders** is a collaborative GitHub organization formed by a group of computer nerds with a shared vision: to build meaningful open‑source software that solves real‑world problems.
 
