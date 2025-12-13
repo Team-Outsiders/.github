@@ -1,4 +1,4 @@
-# 🚀 The Outsiders
+<img width="100%" src="assets/the-outsider-banner.png">
 
 **Short Description**
 *The Outsiders is an open‑source driven GitHub organization focused on building innovative, creative, and problem‑solving projects through collaboration and community contribution.*
