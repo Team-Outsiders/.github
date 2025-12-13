@@ -1,2 +1,2 @@
-# .github
-This is the repository
+#.github
+This is the public profile page for the Jostar-Foundation organization.
