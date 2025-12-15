@@ -1,7 +1,7 @@
-<img width="100%" src="https://github.com/The-Out-Siders/.github/blob/main/assets/the-outsider-banner.png">
+<img width="100%" src="https://github.com/The-Out-Siders/.github/blob/main/assets/Outsiders%20(1).gif">
 
 
-## 🌍 About Us
+<!--## 🌍 About Us-->
 
 **The Outsiders** is a collaborative GitHub organization formed by a group of computer nerds with a shared vision: to build meaningful open‑source software that solves real‑world problems. 
 Our repositories include **open‑source projects**, **group projects**, and **experimental ideas** that push creativity and technical boundaries.
@@ -17,23 +17,15 @@ Our repositories include **open‑source projects**, **group projects**, and **e
 
 
 
-## 🎯 Our Mission
+<!--## 🎯 Our Mission-->
 
-* Contribute actively to the open‑source ecosystem
-* Build innovative and scalable software solutions
-* Encourage teamwork, mentorship, and peer learning
-* Solve real‑world problems using modern technologies
+* Contribute actively to the open‑source ecosystem, Build innovative and scalable software solutions, Encourage teamwork, mentorship, and peer learning, Solve real‑world problems using modern technologies
 
 
 
-## 🧠 What We Work On
+<!--## 🧠 What We Work On-->
 
-* 🚀 Open‑source software projects
-* 🤝 Collaborative group projects
-* 🧩 Problem‑solving & research‑based applications
-* 🤖 AI, Data Science, and automation ideas
-* 🌐 Web, system, and developer‑tool projects
-* 🧪 Experimental & creative tech concepts
+* Open‑source software projects, Collaborative group projects, Problem‑solving & research‑based applications, Web, system, and developer‑tool projects, Experimental & creative tech concepts
 
 
 
@@ -45,8 +37,3 @@ Our repositories include **open‑source projects**, **group projects**, and **e
 <!--## 📌 Code of Conduct
 
 We maintain a respectful, inclusive, and supportive environment. Any form of harassment or discrimination is not tolerated.-->
-
-
----
-
-> *"Innovation thrives when outsiders dare to think differently."*
